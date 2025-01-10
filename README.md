@@ -63,3 +63,5 @@ Accéder à la configuration.
 Afficher les informations sur le projet.
 
 Quitter l'application.
+
+DON PAYPAL : https://www.paypal.com/donate/?hosted_button_id=EZW7NMLW8YG4W
